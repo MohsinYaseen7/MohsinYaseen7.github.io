@@ -1,0 +1,20 @@
+.welcome {
+  padding: 190px 0px;
+}
+
+.welcome h1 {
+  font-size: 80px;
+}
+
+.welcome p {
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+/* .footer {
+  width: 300px;
+} */
+
+i {
+  color: black;
+}
